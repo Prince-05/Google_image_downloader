@@ -60,14 +60,6 @@ Ensure the following dependencies are installed on your system:
 - Google Images might block requests if too many images are downloaded in a short period.
 - Some images may fail to download due to broken URLs or unsupported formats.
 
-## Future Enhancements
-- Add error handling for Google CAPTCHA.
-- Support for downloading images in multiple formats (e.g., PNG, JPG).
-- Option to choose a custom download directory.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgments
 - [Streamlit](https://streamlit.io/) for providing an easy-to-use framework for building web applications.
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) for web scraping capabilities.
